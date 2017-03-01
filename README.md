@@ -1,9 +1,9 @@
 # iMovieTutorial
 
 -	The media in the bottom box is where you are going to edit your work.
-o	Top = Overlay imagery/video.
-o	Middle = Baseline imagery/video.
-o	Bottom = Audio
+ - Top = Overlay imagery/video.
+ - Middle = Baseline imagery/video.
+ - Bottom = Audio
 
 -	Cutting video/audio.
 o	In order to cut out extra footage from your video/audio, hold down the mouse and press the "R" key while dragging to select the range of material you want to delete. When it is selected, hit the "delete" key.
