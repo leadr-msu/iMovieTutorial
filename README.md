@@ -32,5 +32,7 @@
 
 ## To export:
 1)	Go to File -> Share -> File
+
 2)	Press “next” once you’ve named your file and given it a description.
+
 3)	Press “save”
