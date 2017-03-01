@@ -1,5 +1,7 @@
 # iMovieTutorial
 
+Created by Dawson McCall
+
 -	The media in the bottom box is where you are going to edit your work.
  - Top = Overlay imagery/video.
  - Middle = Baseline imagery/video.
