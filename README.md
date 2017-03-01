@@ -4,7 +4,7 @@
  - Top = Overlay imagery/video.
  - Middle = Baseline imagery/video.
  - Bottom = Audio
-
+<img src="img/imovietutorial.png" width="80%"> 
 ## Cutting video/audio.
  - In order to cut out extra footage from your video/audio, hold down the mouse and press the "R" key while dragging to select the range of material you want to delete. When it is selected, hit the "delete" key.
  - After taking some material out, it's possible that you'll need to move the video/image over a little bit within the editing pane. You can only do this by selecting the entire video and dragging it to where you need it to be.
@@ -20,8 +20,10 @@
 
 ## There are a few steps to this to save something that you would like to come back and edit to a USB.
 1)	Go to File -> Open Library -> New.
+
 2)	Under “Save As” chose a file name for your library and a location to place the file (this should be your USB), press “Save.”
-3)	Return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon:  . Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
+
+3)	Return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon: <img src="img/button.png" width="20%">  . Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
 
 ## To open this project on another Mac, start by plugging in your USB and opening iMovie.
  - Go to File -> Open Library -> Other.
