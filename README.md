@@ -25,7 +25,7 @@
 
 2)	Under “Save As” chose a file name for your library and a location to place the file (this should be your USB), press “Save.”
 
-3)	Return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon: <img src="img/button.png" width="50%">  . Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
+3)	Return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon: <img src="img/button.png" width="5%">  . Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
 
 ## To open this project on another Mac, start by plugging in your USB and opening iMovie.
  - Go to File -> Open Library -> Other.
