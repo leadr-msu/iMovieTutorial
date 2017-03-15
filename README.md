@@ -42,3 +42,6 @@ Created by Dawson McCall
 2)	Press “next” once you’ve named your file and given it a description.
 
 3)	Press “save”
+
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+
