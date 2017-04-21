@@ -31,7 +31,7 @@ Created by Dawson McCall
 ## There are a few steps to this to save something that you would like to come back and edit to a USB.
 1)	Go to File -> Open Library -> New.
 
-2)	Under “Save As” chose a file name for your library and a location to place the file (this should be your USB), press “Save.”
+2)	Under “Save As” chose a file name for your library and a location to place the file (this should be your properly-formatted USB - see above), press “Save.”
 
 3)	Return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon: <img src="img/button.png" width="5%">  . Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
 
