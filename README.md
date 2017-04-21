@@ -24,9 +24,9 @@ Created by Dawson McCall
  - NOTE: Any USB you choose to use must be correctly formatted. If you regularly use your USB only with a Mac, it is more than likely already formatted properly. If you use your USB with a PC without issue, then it is most likely not correctly formatted for this task. 
  ... Formatting will delete all of the data on the USB, so please backup any important files before proceeding. Please reformat the drive to one of two types:
 
-..1) For those who do not need the USB for use on a Windows machine, you can format the drive as "Mac OS Extended (journaled)."
+  1. For those who do not need the USB for use on a Windows machine, you can format the drive as "Mac OS Extended (journaled)."
  
-..2) For those who want to continue using their USB on Windows machines, format the drive as "exFat."
+  2. For those who want to continue using their USB on Windows machines, format the drive as "exFat."
  
  - Here are [instructions on how to format a USB while on a Mac](https://www.howtogeek.com/255251/how-to-erase-and-format-a-usb-drive-on-your-mac/), and here are [instructions on how to format a USB while on a PC](http://lifehacker.com/5927185/use-the-exfat-file-system-and-never-format-your-external-drive-again).
  
