@@ -21,11 +21,17 @@ Created by Dawson McCall
 ## Saving Your Work
  - If you are working on a LEADR computer, and if your project is still a work in progress, please make sure that you are saving it to an external hard drive or a USB.
  - Materials left on the LEADR computers are not guaranteed to be there at all times.
-
+ - NOTE: Any USB you choose to use must be correctly formatted. If you regularly use your USB only with a Mac, it is more than likely already formatted properly. If you use your USB with a PC without issue, then it is most likely not correctly formatted for this task. 
+    Formatting will delete all of the data on the USB, so please backup any important files before proceeding. Please reformat the drive to one of two types:
+      1. For those who do not need the USB for use on a Windows machine, you can format the drive as "Mac OS Extended (journaled)."
+      2. For those who want to continue using their USB on Windows machines, format the drive as "exFat."
+ 
+ - Here are [instructions on how to format a USB while on a Mac](https://www.howtogeek.com/255251/how-to-erase-and-format-a-usb-drive-on-your-mac/), and here are [instructions on how to format a USB while on a PC](http://lifehacker.com/5927185/use-the-exfat-file-system-and-never-format-your-external-drive-again).
+ 
 ## There are a few steps to this to save something that you would like to come back and edit to a USB.
 1)	Go to File -> Open Library -> New.
 
-2)	Under “Save As” chose a file name for your library and a location to place the file (this should be your USB), press “Save.”
+2)	Under “Save As” chose a file name for your library and a location to place the file (this should be your properly-formatted USB - see above), press “Save.”
 
 3)	Return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon: <img src="img/button.png" width="5%">  . Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
 
