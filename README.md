@@ -1,15 +1,31 @@
 # iMovieTutorial
 
-Created by Dawson McCall
+Created by Dawson McCall and updated by Daniel Fandino
+
+- To begin, select Create New >> Movie.
+
+<img src="img/imoviestart.png" width="80%">
+
+- Import the files you will be using to iMovie by selecting the grey down arrow. 
+- You can always add more later with the smaller grey down arrow in the top bar.
+
+<img src="img/imovieimportfiles.jpg" width="80%">
 
 -	The media in the bottom box is where you are going to edit your work.
  - Top = Overlay imagery/video.
  - Middle = Baseline imagery/video.
  - Bottom = Audio
  
-<img src="img/imovieoverview.png" width="80%"> 
+<img src="img/imovieoverview.jpg" width="80%"> 
+
+- To begin we recommend starting by draging the audio track down to the timeline. For easier viewing, you can resize the track.
+Drag your first image to the timeline. Click and drag the end of the still image image until it fills the time you have allotted for it. >>do not do this with video!<<
+-Continue to add images, dragging them to the desired mark. iMovie will insert some space between your images in the workspace but it will be seamless during playback.
+
+<img src="img/imovieddimages.jpg" width="80%">
 
 ## Cutting video/audio.
+ - You can mark points on the audio track where you will be changing images to help you in editing. Go to Mark > Add Marker or press M on the point you wish to mark.
  - In order to cut out extra footage from your video/audio, hold down the mouse and press the "R" key while dragging to select the range of material you want to delete. When it is selected, hit the "delete" key.
  - After taking some material out, it's possible that you'll need to move the video/image over a little bit within the editing pane. You can only do this by selecting the entire video and dragging it to where you need it to be.
 
