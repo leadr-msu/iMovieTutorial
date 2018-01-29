@@ -16,7 +16,7 @@ Created by Dawson McCall and updated by Daniel Fandino
  - Middle = Baseline imagery/video.
  - Bottom = Audio
  
-<img src="img/imovieoverview.jpg" width="80%"> 
+<img src="img/imovieoverview.png" width="80%"> 
 
 - To begin we recommend starting by draging the audio track down to the timeline. For easier viewing, you can resize the track.
 Drag your first image to the timeline. Click and drag the end of the still image image until it fills the time you have allotted for it. >>do not do this with video!<<
