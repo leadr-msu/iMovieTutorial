@@ -68,4 +68,4 @@ Drag your first image to the timeline. Click and drag the end of the still image
 3)	Press “save”
 
 ----
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
